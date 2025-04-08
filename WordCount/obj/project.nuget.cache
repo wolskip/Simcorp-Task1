@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BghQnyG5TOlBLR5EIGo7gCkxb/VFBBsj3sQx2QzxiXOhuCRCL1L9I9Z7sRdE8RAV4rR5YY/fpTJqiKjRcoDlHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp840\\source\\semicorp\\task1\\WordCount\\WordCount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp840\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hp840\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
